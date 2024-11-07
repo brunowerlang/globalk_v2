@@ -452,6 +452,7 @@ display: block;
   background-image: url('/assets/bg-body.png');
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 3rem 0 2rem 0;
 }
 
 .brand-logos {
