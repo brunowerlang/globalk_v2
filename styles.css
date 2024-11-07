@@ -683,3 +683,61 @@ margin: auto;
     width: 100vw;
   }
 }
+
+
+/* BOTOÕES TRADUÇÃO */
+
+#translateButton {
+  width: 30px;
+  height: 30px;
+  
+  background-image: url(https://cdn.dooca.store/152820/brands/inglaterra.png?v=1725745758);
+  background-size: cover;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  margin-top: 10px;
+  right: 70px;
+  bottom: 22px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+  z-index: 999;
+}
+
+#translateButton2 {
+  width: 30px;
+  height: 30px;
+  
+  background-image: url(https://cdn.dooca.store/152820/brands/espanha.png?v=1725746089);
+  background-size: cover;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  margin-top: 10px;
+  right: 120px;
+  bottom: 22px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+  z-index: 999;
+}
+
+
+#translateButton3 {
+    width: 30px;
+    height: 30px;
+    
+    background-image: url(https://cdn.dooca.store/152820/brands/portugal.png?v=1725746265);
+    background-size: cover;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    position: fixed;
+    margin-top: 10px;
+    right: 170px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+    bottom: 22px;
+    z-index: 999;
+}
