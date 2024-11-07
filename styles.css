@@ -691,7 +691,7 @@ margin: auto;
   width: 30px;
   height: 30px;
   
-  background-image: url(https://cdn.dooca.store/152820/brands/inglaterra.png?v=1725745758);
+  background-image: url('/assets/eua.png');
   background-size: cover;
   background-position: center;
   border: none;
@@ -709,7 +709,7 @@ margin: auto;
   width: 30px;
   height: 30px;
   
-  background-image: url(https://cdn.dooca.store/152820/brands/espanha.png?v=1725746089);
+  background-image: url('/assets/espanha.png');
   background-size: cover;
   background-position: center;
   border: none;
@@ -728,7 +728,7 @@ margin: auto;
     width: 30px;
     height: 30px;
     
-    background-image: url(https://cdn.dooca.store/152820/brands/portugal.png?v=1725746265);
+    background-image: url('/assets/brasil.png');
     background-size: cover;
     background-position: center;
     border: none;
